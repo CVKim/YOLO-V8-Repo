@@ -1,0 +1,60 @@
+Brotli @ file:///C:/b/abs_c415aux9ra/croot/brotli-split_1736182803933/work
+certifi @ file:///C:/b/abs_3beajm7umk/croot/certifi_1745939228545/work/certifi
+charset-normalizer @ file:///croot/charset-normalizer_1721748349566/work
+colorama==0.4.6
+coloredlogs==15.0.1
+contourpy==1.3.2
+cycler==0.12.1
+filelock @ file:///C:/b/abs_758187j281/croot/filelock_1744281404850/work
+flatbuffers==25.2.10
+fonttools==4.57.0
+fsspec==2025.3.2
+gmpy2 @ file:///C:/b/abs_d8ki0o0h97/croot/gmpy2_1738085498525/work
+humanfriendly==10.0
+idna @ file:///C:/b/abs_aad84bnnw5/croot/idna_1714398896795/work
+Jinja2 @ file:///C:/b/abs_920kup4e6u/croot/jinja2_1741711580669/work
+kiwisolver==1.4.8
+markdown-it-py==3.0.0
+MarkupSafe @ file:///C:/b/abs_a0ma7ge0jc/croot/markupsafe_1738584052792/work
+matplotlib==3.10.1
+mdurl==0.1.2
+mkl-service==2.4.0
+mkl_fft @ file:///C:/Users/dev-admin/mkl/mkl_fft_1730823082242/work
+mkl_random @ file:///C:/Users/dev-admin/mkl/mkl_random_1730822522280/work
+mpmath @ file:///C:/b/abs_7833jrbiox/croot/mpmath_1690848321154/work
+networkx @ file:///C:/b/abs_b054htfn9t/croot/networkx_1737043671910/work
+numpy==1.26.4
+onnx==1.17.0
+onnxruntime-gpu==1.17.0
+onnxsim==0.4.36
+onnxslim==0.1.51
+opencv-python==4.11.0.86
+packaging==25.0
+pandas==2.2.3
+pillow @ file:///C:/b/abs_68t826txdy/croot/pillow_1744613085333/work
+protobuf==6.30.2
+psutil==7.0.0
+py-cpuinfo==9.0.0
+Pygments==2.19.1
+pyparsing==3.2.3
+pyreadline3==3.5.4
+PySocks @ file:///C:/ci_310/pysocks_1642089375450/work
+python-dateutil==2.9.0.post0
+pytz==2025.2
+PyYAML @ file:///C:/b/abs_14xkfs39bx/croot/pyyaml_1728657968772/work
+requests @ file:///C:/b/abs_c3508vg8ez/croot/requests_1731000584867/work
+rich==14.0.0
+scipy==1.15.2
+seaborn==0.13.2
+six==1.17.0
+sympy==1.13.1
+torch==2.1.2+cu118
+torchaudio==2.1.2+cu118
+torchvision==0.16.2+cu118
+tqdm==4.67.1
+typing_extensions @ file:///C:/b/abs_0ffjxtihug/croot/typing_extensions_1734714875646/work
+tzdata==2025.2
+ultralytics==8.3.128
+ultralytics-thop==2.0.14
+urllib3 @ file:///C:/b/abs_7bst06lizn/croot/urllib3_1737133657081/work
+win-inet-pton @ file:///C:/ci_310/win_inet_pton_1642658466512/work
