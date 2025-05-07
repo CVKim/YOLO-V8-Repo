@@ -163,4 +163,3 @@ if __name__ == "__main__":
             process_image(j_fp, i_fp)
 
     logger.info("=== 작업 종료 ===")
-    
