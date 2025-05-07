@@ -162,4 +162,4 @@ if __name__ == "__main__":
         for j_fp, i_fp in tqdm(file_pairs, desc="전체 파일 진행"):
             process_image(j_fp, i_fp)
 
-    logger.info("=== 작업 종료 ===")
+    logger.info("=== 작업 종료 되었습니다. ===")
